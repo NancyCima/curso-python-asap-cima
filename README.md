@@ -54,4 +54,4 @@ Finalmente, **Python** es ideal para el análisis de datos, dado su amplio ecosi
 
 -   **Diseño en Figma**: Luego, trasladamos nuestros wireframes a figma para obtener un diseño más pulido y profesional, permitiendo visualizar mejor la disposición de los elementos y la experiencia del usuario.
 
-![wireframe](./img/wireframe.png)
+![wireframe](./assets/img/wireframe.png)
